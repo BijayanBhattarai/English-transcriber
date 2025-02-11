@@ -1,0 +1,41 @@
+# Flask and related packages
+Flask==2.0.1
+Werkzeug==2.0.1
+python-dotenv==0.19.0
+Flask-Session==0.4.0
+
+# File handling and processing
+ffmpeg-python==0.2.0
+pydub==0.25.1
+humanize==3.14.0
+hurry.filesize==0.9
+
+# Azure Speech Services
+azure-cognitiveservices-speech==1.24.0
+
+# Security and file validation
+python-magic==0.4.24
+filetype==1.1.0
+
+# Utility packages
+requests==2.26.0
+tqdm==4.62.3
+pathlib==1.0.1
+python-slugify==5.0.2
+
+# Time and date handling
+pytz==2021.3
+python-dateutil==2.8.2
+
+# Error handling and logging
+sentry-sdk==1.5.1
+logging==0.4.9.6
+
+# Testing
+pytest==6.2.5
+pytest-cov==2.12.1
+
+# Development tools
+black==21.9b0
+flake8==3.9.2
+isort==5.9.3
